@@ -1,8 +1,8 @@
 <!-- Aplikasi Pengolahan Data Pegawai dengan PHP 7, MySQLi, DataTables ServerSide, dan Bootstrap 4
 ***************************************************************************************************
-* Developer    : Indra Styawantoro
-* Company      : Indra Studio
-* Release Date : Oktober 2018
+* Developer    : Muhamad Taufik
+* Company      : Viza Studio
+* Release Date : June 2023
 * Update       : -
 * Website      : www.indrasatya.com
 * E-mail       : indra.setyawantoro@gmail.com
